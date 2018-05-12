@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1506192858 source:c:\users\diego\desktop\tp2\tp_2_cascara - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506191991 c:\users\diego\desktop\tp2\tp_2_cascara - copia\funciones.h
+
+1506192757 source:c:\users\diego\desktop\tp2\tp_2_cascara - copia\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506192757 source:c:\users\diego\desktop\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506191991 c:\users\diego\desktop\tp2\funciones.h
+
+1506192858 source:c:\users\diego\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506192757 source:c:\users\diego\desktop\tp 2 laboratorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506191991 c:\users\diego\desktop\tp 2 laboratorio\funciones.h
+
+1506192858 source:c:\users\diego\desktop\tp 2 laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1526081412 source:c:\users\user\desktop\tp_laboratorio_2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1526081412 c:\users\user\desktop\tp_laboratorio_2\funciones.h
+
+1526081412 source:c:\users\user\desktop\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
